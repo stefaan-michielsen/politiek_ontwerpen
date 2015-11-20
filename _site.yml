@@ -1,0 +1,36 @@
+brand: politiek_ontwerpen
+
+baseurl: politiek_ontwerpen
+bootswatch: yeti # flatly, yeti, lumen,...
+navbar_inverse: true
+bootstrap: 3.3.5
+navbar_right_items: 2
+
+reflinks:
+    urubu:
+        url: http://urubu.jandecaluwe.com
+        title: Urubu
+    urubu_manual:
+        url: http://urubu.jandecaluwe.com/manual
+        title: Urubu Manual
+    jandecaluwe:
+        url: http://www.jandecaluwe.com
+        title: Jan Decaluwe
+    content_license:
+        url: http://creativecommons.org/licenses/by-sa/3.0/
+        title: CC-BY-SA License
+    software_license:
+        url: http://www.gnu.org/licenses/agpl-3.0.txt
+        title: GNU Affero General Public License
+    markdown:
+        url: http://daringfireball.net/projects/markdown/
+        title: Markdown
+    jinja2:
+        url: http://jinja.pocoo.org
+        title: Jinja2
+    bootstrap:
+        url: http://getbootstrap.com
+        title: Bootstrap
+    bootswatch:
+        url: http://bootswatch.com
+        title: Bootswatch
